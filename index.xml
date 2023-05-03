@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>grayroom</title>
+    <link>https://grayroom.github.io/</link>
+    <description>Recent content on grayroom</description>
+    <image>
+      <title>grayroom</title>
+      <url>https://grayroom.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://grayroom.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 03 May 2023 13:25:14 +0900</lastBuildDate><atom:link href="https://grayroom.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Portfolio</title>
+      <link>https://grayroom.github.io/post/portfolio/</link>
+      <pubDate>Wed, 03 May 2023 13:25:14 +0900</pubDate>
+      
+      <guid>https://grayroom.github.io/post/portfolio/</guid>
+      <description>프로젝트 [교내동아리] 중앙동아리 COMs 커뮤니티 웹페이지 개발 링크 [산학연계SW프로젝트] 인공지능 병원을 위한 클라우드 의료정보시스템 개발 링크 [과제] 데이터베이스및데이터시각화: 주식거래 웹서비스 개발 링크 [교내연구] 투자모델을 위한 백테스팅 플랫폼 연구/개발 링크 수상 [2023] 제7회 광운대학교 산학연계SW프로젝트 최우수상::인공지능 병원을 위한 클라우드 의료정보시스템 개발 [2022] 광운대학교 TOPCIT 인증시험 1위::635점 </description>
+    </item>
+    
+  </channel>
+</rss>
