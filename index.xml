@@ -10,7 +10,18 @@
       <link>https://grayroom.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 04 May 2023 17:31:09 +0900</lastBuildDate><atom:link href="https://grayroom.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 04 May 2023 18:34:05 +0900</lastBuildDate><atom:link href="https://grayroom.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>주최한 스터디</title>
+      <link>https://grayroom.github.io/post/study/</link>
+      <pubDate>Thu, 04 May 2023 18:34:05 +0900</pubDate>
+      
+      <guid>https://grayroom.github.io/post/study/</guid>
+      <description>교내 컴퓨터 연구회 학술 동아리(COM&amp;rsquo;s)에서 진행한 스터디를 소개합니다. 아래 설명한 스터디를 진행하면서 스스로 알고있던 내용에 대해 더 깊이 있게 공부할 수 있었고, 그 과정에서 부족한 부분을 포착하고 보완할 수 있었습니다.
+📚알고리즘 스터디 1️⃣ 기본 알고리즘: 2022.03 - 2022.07 알고리즘 문제풀이(PS)에서 자주 등장하는 개념을 위주로 매주 주제에 대한 강의를 진행하였고, 관련 문제를 풀어온 다음 서로의 풀이를 공유하는 방식으로 진행했습니다.
+2️⃣ 대회 알고리즘: 2022.03 - 2022.07 UCPC, ICPC, SCPC등 대학생 대상 알고리즘 대회를 대비하여 매주 대회 유형의 문제를 풀어보고 서로의 풀이를 공유하는 방식으로 진행했습니다.</description>
+    </item>
+    
     <item>
       <title>[교내연구] 투자모델을 위한 백테스팅 플랫폼 연구/개발</title>
       <link>https://grayroom.github.io/post/stock/</link>
