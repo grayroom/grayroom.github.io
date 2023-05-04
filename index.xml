@@ -10,14 +10,39 @@
       <link>https://grayroom.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 03 May 2023 13:25:14 +0900</lastBuildDate><atom:link href="https://grayroom.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 04 May 2023 17:31:09 +0900</lastBuildDate><atom:link href="https://grayroom.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Portfolio</title>
-      <link>https://grayroom.github.io/post/portfolio/</link>
+      <title>[교내연구] 투자모델을 위한 백테스팅 플랫폼 연구/개발</title>
+      <link>https://grayroom.github.io/post/stock/</link>
+      <pubDate>Thu, 04 May 2023 17:31:09 +0900</pubDate>
+      
+      <guid>https://grayroom.github.io/post/stock/</guid>
+      <description>2023.01 - 2023.03
+개요 교내 데이터사이언스랩에서 투자모델을 위한 주식 포트폴리오 백테스팅 플랫폼 연구/개발을 수행했습니다. 투자모델이 산출해 내는 종목 매수 및 먜도 시그널에 따라 가상의 투자 시나리오를 구현하고, 이를 통해 투자모델의 성능을 평가할 수 있는 플랫폼을 구현하였습니다.
+📌주요기능 투자 시그널에 따른 시간별 포트폴리오 평가 그래프 Maximum Draw Down, Sharpe Ratio, CAGR등의 투자모델 성능 평가 지표 시각화 벤치마크 지수 및 포트폴리오 수익률 비교 투자시그널 DB저장 API 투자지표 활용을 위한 CSV 데이터 다운로드 🔧기술스택 Vue.</description>
+    </item>
+    
+    <item>
+      <title>[산학연계SW프로젝트] 인공지능 병원을 위한 클라우드 의료정보시스템 개발</title>
+      <link>https://grayroom.github.io/post/sanhak/</link>
+      <pubDate>Thu, 04 May 2023 16:46:32 +0900</pubDate>
+      
+      <guid>https://grayroom.github.io/post/sanhak/</guid>
+      <description>2022.07 - 2023.03
+개요 아크릴(Acryl)사와 협력하여 Vue.js Django AWS Kubernetes Docker Kafka Fluentd 등의 최근 트렌드에 맞는 웹 기술을 적용하여, 쉽게 확장가능하고 인공지능 서비스모듈을 쉽게 적용할 수 있는 의료정보시스템을 개발 했습니다.
+📌주요기능 웹서비스 기반의 의료정보시스템에서 생산한 의료정보에 대한 인공지능 분석 수행 웹서비스를 작은 단위의 마이크로서비스로 구현 AWS EKS를 통한 클라우드 배포 의료정보시스템에서 생산된 의료정보는 Kafka를 통해 비동기 이벤트로 추상화하여 인공지능 서비스모듈로 전달하도록 구현 각 서비스(웹, 인공지능 모듈)는 워크로드에 따라 AutoScale되도록 구현 🔧기술스택 Vue.</description>
+    </item>
+    
+    <item>
+      <title>[프로젝트] 중앙동아리 COMs 커뮤니티 웹페이지 개발</title>
+      <link>https://grayroom.github.io/post/coms/</link>
       <pubDate>Wed, 03 May 2023 13:25:14 +0900</pubDate>
       
-      <guid>https://grayroom.github.io/post/portfolio/</guid>
-      <description>프로젝트 [교내동아리] 중앙동아리 COMs 커뮤니티 웹페이지 개발 링크 [산학연계SW프로젝트] 인공지능 병원을 위한 클라우드 의료정보시스템 개발 링크 [과제] 데이터베이스및데이터시각화: 주식거래 웹서비스 개발 링크 [교내연구] 투자모델을 위한 백테스팅 플랫폼 연구/개발 링크 수상 [2023] 제7회 광운대학교 산학연계SW프로젝트 최우수상::인공지능 병원을 위한 클라우드 의료정보시스템 개발 [2022] 광운대학교 TOPCIT 인증시험 1위::635점 </description>
+      <guid>https://grayroom.github.io/post/coms/</guid>
+      <description>2019.06 - 2020.07
+개요 SpringBoot, MariaDB, Bootstrap, Jquery, Scss등을 사용하여 전통적인 웹 페이지를 제작했습니다. CSS및 컴포넌트 라이브러리를 사용하기 보다는 대부분의 기능을 직접 구현하여 Javascript에 대해 익숙해질 수 있었습니다. 또한, 웹 해킹에 대한 조사레포트를 작성하여 그에대한 보안처리를 구현하였습니다.
+이를 통해 졸업한 회원과 재학생간의 소통을 도모하고, 동아리 활동에 대한 정보를 제공하는 웹 페이지를 제공할 수 있었습니다.
+📌주요기능 회원관리 / 커뮤니티 게시판(일반, QnA) / 동아리 행사 일정관리 탈퇴 회원의 개인정보 분리 보관 SQLi, XSS등 웹해킹에 대한 방어 🔧기술스택 SpringBoot, MariaDB, Bootstrap, Jquery, Scss, Nginx, Mybatis</description>
     </item>
     
   </channel>
